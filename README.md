@@ -2,9 +2,9 @@
 Analysis of foreign currency spend of Monzo customers in July months
 
 - An analysis of the most important foreign currencies by total card spend converted to GBP In July. Metrics include:
-● Total spend converted to GBP
-● Transaction volume
-● Number of customers
+      Total spend converted to GBP,
+      Transaction volume,
+      Number of customers
 
 - Analysis of each currency where total card spend in July 2023 (once converted to GBP) was greater than £5 million
   
